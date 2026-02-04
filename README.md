@@ -1,12 +1,12 @@
-#Executive Pricing & Margin Risk Dashboard (Excel)
+# Executive Pricing & Margin Risk Dashboard (Excel)
 
 
 ## Objective
 To enable leadership to evaluate discount strategies while proactively managing margin risk.
 
-##Business Question
+## Business Question
 Which discount levels maximize revenue without increasing exposure to margin risk?
-##What This Dashboard Delivers
+## What This Dashboard Delivers
 - Revenue, profit, margin, and order KPIs
 - Margin risk segmentation (Healthy / Medium / High)
 - Discount band impact on profitability
@@ -14,12 +14,12 @@ Which discount levels maximize revenue without increasing exposure to margin ris
 - Order-level drilldown for high-risk cases
 - Interactive filtering by region, category, and business unit
 
-##Key Insight
+## Key Insight
 
 - Medium discounts consistently provide the strongest balance between revenue growth and margin stability.
 - High discounts increase revenue but significantly elevate margin risk.
 
-##Tools & Techniques
+## Tools & Techniques
 - Advanced Excel
 - PivotTables & PivotCharts
 - Slicers & Form Controls
