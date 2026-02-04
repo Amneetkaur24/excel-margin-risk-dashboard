@@ -1,6 +1,8 @@
 # excel-margin-risk-dashboard
 Executive Pricing & Margin Risk Dashboard (Excel)
-Objective
+
+
+## Objective
 To enable leadership to evaluate discount strategies while proactively managing margin risk.
 
 Business Question
